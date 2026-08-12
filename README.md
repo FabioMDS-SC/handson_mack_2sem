@@ -8,3 +8,4 @@ Impactos de grandes eventos sociopolíticos ao mercado de trabalho. Eventos como
 - Oportunidades de investimentos (Setores prosperam diante de crises?)
 - Oportunidades de recolocação?
 - Potencial de privatização.
+Resumindo: Principais oportunidades em meio a crises e eventos socioeconômicos.
