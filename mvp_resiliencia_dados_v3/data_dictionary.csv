@@ -1,0 +1,11 @@
+fonte,indicador,codigo_tabela,frequencia_original,tipo,observacao
+BCB,IBC-Br dessazonalizado,24364,mensal,feature,API SGS oficial
+BCB,Meta Selic,432,diaria/eventos,feature,API SGS oficial
+BCB,Dolar USD-BRL venda,1,diaria,feature,API SGS oficial
+IBGE,IPCA,1737,mensal,feature,Usar variacao mensal e acumulado 12 meses
+IBGE,PIB,1621,trimestral,feature,Preferir serie de volume com ajuste sazonal
+IBGE,Taxa de desocupacao,6381,trimestre movel,feature,PNAD Continua
+B3,Ibovespa,,diaria,benchmark,Historico oficial B3
+B3,IFNC,,diaria,target,Financeiro
+B3,ICON,,diaria,target,Consumo
+B3,IEE,,diaria,target,Energia eletrica

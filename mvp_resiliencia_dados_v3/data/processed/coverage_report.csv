@@ -1,0 +1,7 @@
+fonte,arquivo,linhas,colunas,missing_cells,status
+BCB,ibc_br.csv,174,2,0,OK
+BCB,selic.csv,5344,2,0,OK
+BCB,usd_brl.csv,3673,2,0,OK
+IBGE,desemprego_sidra_6381.csv,1032,11,60,OK
+IBGE,ipca_sidra_1737.csv,3360,11,46,OK
+IBGE,pib_sidra_1621.csv,121,13,0,OK
