@@ -1,13 +1,16 @@
-# handson_mack_2sem
-Repositório referente ao projeto Hands on - MBA engenharia de dados Mackenzie.
-# Integrantes
-Fábio Silva de Medeiros RA 10734804
-Jackson Ventura         RA 10737764
-# Título
-Oportunidades em meio ao Caos: Previsibilidade financeira em momentos de estresse socioeconômico
-# Problema
-Diferentes setores econômicos tendem a se comportar de maneiras diferentes em momentos de estresse socioeconômicos ( Período eleitoral, epidemias, crises econômicas). 
-Como utilizar  dados socioeconômicos e financeiros para objetivamente  identificar quais setores comerciais apresentam maior resiliência ou risco nesses cenários?
+# handson_mack_2sem — MVP de Resiliência Setorial
+
+Projeto do Hands On do MBA em Engenharia de Dados — Mackenzie.
+
+## Título
+
+**Oportunidades em meio ao Caos: Previsibilidade financeira em momentos de estresse socioeconômico**
+
+## Problema
+
+Diferentes setores econômicos podem se comportar de maneiras diferentes em períodos de estresse socioeconômico, como recessões, pandemias e períodos eleitorais.
+
+O projeto investiga como dados macroeconômicos, socioeconômicos e financeiros podem ser utilizados para identificar esses cenários e comparar a resiliência histórica de diferentes setores do mercado brasileiro.
 
 ## Dados do MVP
 
@@ -44,5 +47,3 @@ mvp_resiliencia_dados_v4_minio/
 ```
 
 Consulte `README_V4.md` para executar a etapa de pré-processamento e MinIO.
-
-
