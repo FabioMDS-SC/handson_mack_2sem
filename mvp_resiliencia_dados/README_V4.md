@@ -135,15 +135,3 @@ Esses lags são uma aproximação inicial. Em uma versão mais rigorosa, devem s
 - `quality_report.csv`
 
 O `dataset_mvp_complete.csv` contém somente meses em que as principais séries já estão disponíveis em conjunto.
-
-## Próxima fase
-
-Depois de validar o dataset consolidado:
-
-1. EDA;
-2. definição formal do rótulo `stress`;
-3. baseline;
-4. Logistic Regression;
-5. Random Forest;
-6. avaliação temporal;
-7. ranking de resiliência por regime.
