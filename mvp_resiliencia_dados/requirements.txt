@@ -11,3 +11,4 @@ dotenv
 ipykernel
 python-dotenv
 pyarrow
+scipy
