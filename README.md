@@ -2,6 +2,12 @@
 
 Projeto do Hands On de Engenharia de Dados do MBA Mackenzie.
 
+# Integrantes
+Fábio Silva de Medeiros RA 10734804 Jackson Ventura RA 10737764
+
+# Título
+Oportunidades em meio ao Caos: Previsibilidade financeira em momentos de estresse socioeconômico
+
 ## Projeto principal
 
 A implementação, os dados, os scripts e a documentação estão na pasta:
