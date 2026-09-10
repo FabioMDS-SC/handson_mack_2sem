@@ -1,0 +1,4 @@
+split,linhas,inicio,fim,stress,normal
+train,76,2012-09-30,2018-12-31,26,50
+validation,24,2019-01-31,2020-12-31,7,17
+test,67,2021-01-31,2026-07-31,11,56
